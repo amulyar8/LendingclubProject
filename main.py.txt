@@ -1,2 +1,5 @@
 #this is the main file
 This is intresting file creation using local
+
+This is feature2 file and we are happyily working on itgit remote
+adding feature2
